@@ -1,0 +1,31 @@
+#header {
+    position: static;
+    top: 0;
+    background-color: #F9F3CC;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+#main {
+    position: relative;
+    left: 250px;
+    top: 10px;
+    background-color: #CDF0EA;
+    padding: 100px;
+
+    font-weight: bold;
+    text-align: center;
+}
+
+#sidebar {
+    position: absolute;
+    right: 10;
+    top: 55px;
+    background-color: #FFB3B3;
+    padding: 100px;
+
+    font-weight: bold;
+    text-align: left;
+}
